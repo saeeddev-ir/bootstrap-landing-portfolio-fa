@@ -1,18 +1,17 @@
-# Project5: bootstrap-landing-portfolio-fa
+# Project 5: bootstrap portfolio landing page
 
-✔️ Bootstrap / Git
-✔️ HTML / CSS / JavaScript
-✔️ Responsive
+### This is a spectacular landing page which I 've created with bootstrap and also git
 
- ✔️ Language: Farsi
 
-👨‍💻 Developer: Saeed Abdollahi
 
-❤️ please follow me on: 
-instagram: https://lnkd.in/gBqfRyVp
-github: https://lnkd.in/gbKXemr3
 
-📥 to download the code of this template, visit my github please.
+🔗 [Demo Project](https://saeeddev-ir.github.io/planet-animation/)
 
-#frontend #code #developer #bootstrap #git
-#فرانت_اند #وب_دولوپر #برنامه_نویس #بوت_استرپ #گیت
+👨‍💻 Developed by Saeed Abdollahi
+
+💻 Role: Frontend
+
+⚙ Technologies used: HTML / CSS / JavaScript / bootstrap / git
+
+📥 How to reach me: with my [Linkedin](https://www.linkedin.com/in/saeeddev-ir) / [Instagram](https://instagram.com/saeeddev_ir) / [Telegram](https://t.me/saeeddev_ir)
+
