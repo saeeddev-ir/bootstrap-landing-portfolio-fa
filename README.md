@@ -1,6 +1,11 @@
 # Project 5: bootstrap portfolio landing page
 
-### This is a spectacular landing page which I 've created with bootstrap and also git
+### This is a spectacular landing page which I 've created with bootstrap and also git 
+
+
+✔ responsive 
+
+✔ language: Farsi
 
 
 
